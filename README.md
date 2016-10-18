@@ -13,3 +13,4 @@ Slides will be forthcoming at https://speakerdeck.com/jasonrclark/gdb-a-gentle-i
 * [Awesome helper functions for breaking down Ruby structs](https://github.com/michaelklishin/gdb-macros-for-ruby)
 * [Debugging an MRI Ruby GC segfault caused by a buggy RubyGem](http://blog.packagecloud.io/eng/2014/11/17/debugging-ruby-gem-segfault/)
 * [gdb Debugging Full Example (Tutorial): ncurses](http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html)
+* [Give me 15 minutes & I'll change your view of GDB](http://undo.io/resources/presentations/cppcon-2015-greg-law-give-me-15-minutes-ill-change/)
